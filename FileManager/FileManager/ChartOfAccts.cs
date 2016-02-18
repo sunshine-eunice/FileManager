@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace FileManager
 {
-    public partial class Form2 : Form
+    public partial class Chart : Form
     {
-        public Form2()
+        public Chart()
         {
             InitializeComponent();
         }

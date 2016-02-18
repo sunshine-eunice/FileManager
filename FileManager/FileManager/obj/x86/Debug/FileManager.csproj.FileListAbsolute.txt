@@ -8,3 +8,11 @@ C:\Users\Nelson\AppData\Local\Temporary Projects\FileManager\obj\x86\Debug\FileM
 C:\Users\Nelson\AppData\Local\Temporary Projects\FileManager\obj\x86\Debug\FileManager.Form2.resources
 C:\Users\Nelson\Documents\WinForms (Feb)\FileManager\FileManager\obj\x86\Debug\FileManager.exe
 C:\Users\Nelson\Documents\WinForms (Feb)\FileManager\FileManager\obj\x86\Debug\FileManager.pdb
+C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.exe
+C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.pdb
+C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.Form1.resources
+C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.Chart.resources
+C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.Properties.Resources.resources
+C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.csproj.GenerateResource.Cache
