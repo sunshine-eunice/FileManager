@@ -16,6 +16,7 @@ C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\obj\x86\Deb
 C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.Chart.resources
 C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.Properties.Resources.resources
 C:\Users\Nelson\Documents\GitHub\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\Nelson\Documents\WinForms\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.exe
 C:\Users\Nelson\Documents\WinForms\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.pdb
 C:\Users\Nelson\Documents\WinForms\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.csprojResolveAssemblyReference.cache
@@ -25,3 +26,5 @@ C:\Users\Nelson\Documents\WinForms\FileManager\FileManager\FileManager\obj\x86\D
 C:\Users\Nelson\Documents\WinForms\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe
 C:\Users\Nelson\Documents\WinForms\FileManager\FileManager\FileManager\bin\Debug\FileManager.pdb
 C:\Users\Nelson\Documents\WinForms\FileManager\FileManager\FileManager\obj\x86\Debug\FileManager.ChartOFAccts.resources
+=======
+>>>>>>> d067ead700e2f68a99f117ccd3d5ca76d39a22e6

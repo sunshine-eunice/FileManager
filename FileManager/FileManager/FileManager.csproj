@@ -67,11 +67,19 @@
     <Compile Include="ChartOFAccts.Designer.cs">
       <DependentUpon>ChartOFAccts.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+=======
+    <Compile Include="ChartOfAccts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chart.Designer.cs">
+      <DependentUpon>ChartOfAccts.cs</DependentUpon>
+>>>>>>> d067ead700e2f68a99f117ccd3d5ca76d39a22e6
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -81,6 +89,12 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
+=======
+    <EmbeddedResource Include="Chart.resx">
+      <DependentUpon>ChartOfAccts.cs</DependentUpon>
+    </EmbeddedResource>
+>>>>>>> d067ead700e2f68a99f117ccd3d5ca76d39a22e6
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

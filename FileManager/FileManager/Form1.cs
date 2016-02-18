@@ -33,7 +33,11 @@ namespace FileManager
 
         private void chartOfAccountsAdministrationToolStripMenuItem_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             ChartOFAccts form_ChartAdmin   =   new ChartOFAccts();
+=======
+            Chart form_ChartAdmin   =   new Chart();
+>>>>>>> d067ead700e2f68a99f117ccd3d5ca76d39a22e6
             form_ChartAdmin.ShowDialog();
         }    
     }
